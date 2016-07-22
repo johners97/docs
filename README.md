@@ -1,5 +1,7 @@
 # Introduction
 
+[![Join the chat at https://gitter.im/johners97/docs](https://badges.gitter.im/johners97/docs.svg)](https://gitter.im/johners97/docs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * Easily navigatable version of the [latest production docs are here.](https://openaps.readthedocs.org/en/latest/index.html)
 * Easily navigatable version of the [in-development or "dev" docs can be found here.](https://openaps.readthedocs.org/en/dev/index.html)
 
