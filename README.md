@@ -46,7 +46,7 @@ contributing in other ways.
 
 This documentation is organized into a series of phases that progressively
 build upon the openaps development tools towards a working OpenAPS system.
-The phases are as follows:
+The phases are as follows, you will have to read through these several times:
 
 * **Phase 0: General Setup**<br>
 Get the equipment you need; record baseline data, configure your hardware, install software, and become familiar with the openaps environment
